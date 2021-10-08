@@ -5,4 +5,8 @@
 代码实例::(语言NRSShell-Pro)
 ```nrsshell
 get webjson bai0 info people none save
+ ```  
+ C++
+ ```cpp
+ webjson("bai0info.api.cn-nrs.top",read,"people","w");
  ```
